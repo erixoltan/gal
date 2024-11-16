@@ -1,0 +1,4 @@
+main
+{
+    say "Hello World";
+}

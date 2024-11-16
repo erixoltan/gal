@@ -1,0 +1,13 @@
+Example usage.
+
+    $ gal0
+        gal0 [-x|--xecute] [-r|--raku] [-p|--python] [-j|--javascript] [-m|--mumps] [-c|--cee] [-g|--gal] [-v|--verbose] <file> <target>
+    $ gal0 -r sample.gal sample0.raku
+    $ gal1 python sample.gal sample1.py
+    $ gal1 javascript sample.gal sample1.js
+    $ gal2
+    ~ say "Hello";
+    Hello
+    ~
+    $ gal2 gs py sample.gal sample2.py
+    $ gal2 gs js sample.gal sample2.js
