@@ -1,3 +1,10 @@
+Some Useful Aliases (use your own path to here)
+
+    alias gal0='rakudo ~/git/gal/gal0.raku'
+    alias gal1='python ~/git/gal/gal1.py'
+    alias gal2='python ~/git/gal/gal2.py'
+    alias gal3='python ~/git/gal/gal3.py'
+
 Example usage.
 
     $ gal0
